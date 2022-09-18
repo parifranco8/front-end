@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 import Navigation from "./components/Navigation/navigation";
 import Logo from "./components/Logo/logo";
 import ImageLinkForm from "./components/ImageLinkForm/ImageLinkForm";
